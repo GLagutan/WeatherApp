@@ -1,0 +1,9 @@
+Weather API site: https://home.openweathermap.org/api_keys
+
+key: 30be716fc00bd509956eae68b6017022
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+test
+https://api.openweathermap.org/data/2.5/weather?q=caloocan&appid=30be716fc00bd509956eae68b6017022
+
+https://api.openweathermap.org/data/2.5/weather?q=caloocan&appid=30be716fc00bd509956eae68b6017022&units=metric
